@@ -1,0 +1,38 @@
+$navbar-light-toggler-icon-bg:url("./svg/toggle\ navbar\ -\ Google\ Arama-4.svg");
+
+.nav-link{
+
+font-family:serif;
+
+
+}
+
+
+
+  .navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    margin-right:95%;
+    margin-top: 7px;
+  }
+
+.bg-dark:hover{
+    cursor:pointer;
+ 
+    
+}
+
+
+.card:hover img{
+  overflow:auto; 
+  transform: scale3d(0.99,0.99, 1);
+  transition: all 0.25s linear;
+}
+
+
+
+
+
+
+  @import "./node_modules/bootstrap/scss/bootstrap.scss";
